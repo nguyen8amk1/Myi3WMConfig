@@ -199,6 +199,7 @@ client.background       #F8F8F2
 
 bar {
         status_command i3status --config ~/.config/i3/i3status.conf
+        # status_command i3blocks 
   colors {
     background #282A36
     statusline #F8F8F2
